@@ -1,0 +1,5 @@
+@charset "ISO-8859-1";
+
+h3{ border:1px solid black; width:10%; height:20px }
+form{ width:150px; border:1px solid black; display:inline-block; padding:10px; text-align:center; margin-left:40px }
+div{ border:1px solid black; height:200px }
