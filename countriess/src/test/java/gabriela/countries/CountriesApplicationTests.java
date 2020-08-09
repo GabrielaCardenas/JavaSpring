@@ -1,10 +1,10 @@
-package gabriela.Lookify;
+package gabriela.countries;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LookifyApplicationTests {
+class CountriesApplicationTests {
 
 	@Test
 	void contextLoads() {

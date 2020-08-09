@@ -1,4 +1,4 @@
-package gabriela.Lookify;
+package gabriela.countries;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
@@ -7,7 +7,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(LookifyApplication.class);
+		return application.sources(CountriesApplication.class);
 	}
 
 }

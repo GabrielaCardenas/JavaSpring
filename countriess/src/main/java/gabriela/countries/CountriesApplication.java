@@ -1,13 +1,13 @@
-package gabriela.Lookify;
+package gabriela.countries;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LookifyApplication {
+public class CountriesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LookifyApplication.class, args);
+		SpringApplication.run(CountriesApplication.class, args);
 	}
 
 }
